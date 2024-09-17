@@ -1,0 +1,7 @@
+pika
+flask
+pandas
+pymongo
+boto3
+jsons
+dataclasses

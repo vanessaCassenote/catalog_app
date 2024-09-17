@@ -1,0 +1,8 @@
+{
+    "db": {
+            "url" : "mongodb://root:example@mongo:27017/",
+            "name" :"catalog",
+            "user" :"",
+            "password" :""
+    }
+}
